@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux
+END
+favoritehubs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/favoritehubs.cc
+END
+entry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/entry.cc
+END
+func.hh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/func.hh
+END
+search.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/search.cc
+END
+sharebrowser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/sharebrowser.cc
+END
+wulformanager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/wulformanager.cc
+END
+publichubs.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/publichubs.hh
+END
+mainwindow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/mainwindow.cc
+END
+UserCommandMenu.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/UserCommandMenu.hh
+END
+bookentry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/bookentry.cc
+END
+hashdialog.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/hashdialog.hh
+END
+hub.cc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/hub.cc
+END
+privatemessage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/privatemessage.cc
+END
+settingsdialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/settingsdialog.cc
+END
+downloadqueue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/downloadqueue.hh
+END
+WulforUtil.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/WulforUtil.hh
+END
+finishedtransfers.hh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/finishedtransfers.hh
+END
+dialogentry.hh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/dialogentry.hh
+END
+publichubs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/publichubs.cc
+END
+UserCommandMenu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/UserCommandMenu.cc
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/SConscript
+END
+hashdialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/hashdialog.cc
+END
+treeview.hh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/treeview.hh
+END
+settingsmanager.hh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/settingsmanager.hh
+END
+entry.hh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/entry.hh
+END
+favoritehubs.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/favoritehubs.hh
+END
+downloadqueue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/downloadqueue.cc
+END
+WulforUtil.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/WulforUtil.cc
+END
+wulfor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/wulfor.cc
+END
+search.hh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/search.hh
+END
+sharebrowser.hh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/sharebrowser.hh
+END
+dialogentry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/dialogentry.cc
+END
+finishedtransfers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/finishedtransfers.cc
+END
+wulformanager.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/wulformanager.hh
+END
+mainwindow.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/mainwindow.hh
+END
+bookentry.hh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/bookentry.hh
+END
+hub.hh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/hub.hh
+END
+privatemessage.hh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/privatemessage.hh
+END
+treeview.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/treeview.cc
+END
+settingsdialog.hh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/settingsdialog.hh
+END
+settingsmanager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/linux/settingsmanager.cc
+END

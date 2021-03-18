@@ -1,0 +1,839 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp
+END
+AdcCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/AdcCommand.h
+END
+DCPlusPlus.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/DCPlusPlus.h
+END
+UserConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/UserConnection.h
+END
+CID.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/CID.h
+END
+ConnectionManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ConnectionManagerListener.h
+END
+StringTokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/StringTokenizer.h
+END
+BufferedSocketListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/BufferedSocketListener.h
+END
+Singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Singleton.h
+END
+forward.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/forward.h
+END
+DownloadManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/DownloadManagerListener.h
+END
+UploadManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/UploadManager.cpp
+END
+HashBloom.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/HashBloom.h
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Util.h
+END
+NmdcHub.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/NmdcHub.h
+END
+version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/version.cpp
+END
+AdcCommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/AdcCommand.cpp
+END
+ADLSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ADLSearch.h
+END
+DCPlusPlus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/DCPlusPlus.cpp
+END
+UserConnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/UserConnection.cpp
+END
+HttpConnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/HttpConnection.cpp
+END
+ConnectionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ConnectionManager.h
+END
+BufferedSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/BufferedSocket.h
+END
+Segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Segment.h
+END
+DownloadManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/DownloadManager.h
+END
+LogManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/LogManager.cpp
+END
+Download.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Download.h
+END
+Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Thread.h
+END
+BitInputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/BitInputStream.h
+END
+Encoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Encoder.cpp
+END
+SFVReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SFVReader.cpp
+END
+TigerHash.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/TigerHash.h
+END
+ServerSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ServerSocket.h
+END
+Text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Text.cpp
+END
+ADLSearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ADLSearch.cpp
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/version.h
+END
+ConnectionManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ConnectionManager.cpp
+END
+BZUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/BZUtils.h
+END
+DownloadManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/DownloadManager.cpp
+END
+DirectoryListing.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/DirectoryListing.h
+END
+TimerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/TimerManager.cpp
+END
+FastAlloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/FastAlloc.h
+END
+TigerHash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/TigerHash.cpp
+END
+MerkleCheckOutputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/MerkleCheckOutputStream.h
+END
+SimpleXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SimpleXML.h
+END
+FavoriteManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/FavoriteManagerListener.h
+END
+SFVReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SFVReader.h
+END
+ResourceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ResourceManager.h
+END
+Socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Socket.cpp
+END
+Upload.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Upload.h
+END
+stdinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/stdinc.h
+END
+QueueManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/QueueManagerListener.h
+END
+DirectoryListing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/DirectoryListing.cpp
+END
+ZUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ZUtils.h
+END
+Flags.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Flags.h
+END
+FilteredFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/FilteredFile.h
+END
+SearchResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SearchResult.cpp
+END
+QueueItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/QueueItem.h
+END
+SimpleXML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SimpleXML.cpp
+END
+FavoriteManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/FavoriteManager.h
+END
+ResourceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ResourceManager.cpp
+END
+QueueManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/QueueManager.h
+END
+File.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/File.h
+END
+FinishedManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/FinishedManager.cpp
+END
+Transfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Transfer.cpp
+END
+LogManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/LogManagerListener.h
+END
+Semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Semaphore.h
+END
+ClientListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ClientListener.h
+END
+HashManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/HashManagerListener.h
+END
+ZUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ZUtils.cpp
+END
+AdcHub.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/AdcHub.h
+END
+BufferedSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/BufferedSocket.cpp
+END
+SettingsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SettingsManager.h
+END
+SearchManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SearchManager.cpp
+END
+StringSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/StringSearch.h
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Exception.h
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SConscript
+END
+Download.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Download.cpp
+END
+Thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Thread.cpp
+END
+FinishedItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/FinishedItem.cpp
+END
+ClientManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ClientManager.cpp
+END
+FavoriteManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/FavoriteManager.cpp
+END
+ServerSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ServerSocket.cpp
+END
+CryptoManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/CryptoManager.h
+END
+LogManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/LogManager.h
+END
+UserCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/UserCommand.h
+END
+Client.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Client.h
+END
+HashManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/HashManager.h
+END
+User.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/User.h
+END
+FavoriteUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/FavoriteUser.h
+END
+ClientManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ClientManagerListener.h
+END
+AdcHub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/AdcHub.cpp
+END
+Text.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Text.h
+END
+UploadManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/UploadManagerListener.h
+END
+Exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Exception.cpp
+END
+HashBloom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/HashBloom.cpp
+END
+User.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/User.cpp
+END
+Client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Client.cpp
+END
+HashManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/HashManager.cpp
+END
+ClientManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ClientManager.h
+END
+SSLSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SSLSocket.h
+END
+NmdcHub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/NmdcHub.cpp
+END
+BloomFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/BloomFilter.h
+END
+UploadManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/UploadManager.h
+END
+Pointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Pointer.h
+END
+Socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Socket.h
+END
+ShareManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ShareManager.cpp
+END
+FinishedManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/FinishedManagerListener.h
+END
+SSL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SSL.cpp
+END
+QueueItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/QueueItem.cpp
+END
+HttpConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/HttpConnection.h
+END
+SearchResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SearchResult.h
+END
+SSLSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SSLSocket.cpp
+END
+SearchManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SearchManagerListener.h
+END
+QueueManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/QueueManager.cpp
+END
+File.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/File.cpp
+END
+BitOutputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/BitOutputStream.h
+END
+Encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Encoder.h
+END
+Transfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Transfer.h
+END
+FinishedManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/FinishedManager.h
+END
+SettingsManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SettingsManager.cpp
+END
+BZUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/BZUtils.cpp
+END
+Speaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Speaker.h
+END
+StringTokenizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/StringTokenizer.cpp
+END
+ShareManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/ShareManager.h
+END
+MerkleTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/MerkleTree.h
+END
+HubEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/HubEntry.h
+END
+SearchManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SearchManager.h
+END
+SSL.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/SSL.h
+END
+UserConnectionListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/UserConnectionListener.h
+END
+CryptoManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/CryptoManager.cpp
+END
+TaskQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/TaskQueue.h
+END
+Util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Util.cpp
+END
+FinishedItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/FinishedItem.h
+END
+TimerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/TimerManager.h
+END
+Streams.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Streams.h
+END
+Upload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/Upload.cpp
+END
+stdinc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/stdinc.cpp
+END
+CriticalSection.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/CriticalSection.h
+END
+HashValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/101/tags/freedcpp-0.0.2/dcpp/HashValue.h
+END

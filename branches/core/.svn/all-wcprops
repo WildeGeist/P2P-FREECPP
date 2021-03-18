@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/svn/!svn/ver/211/branches/core
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/125/branches/core/License.txt
+END
+freedcpp.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/125/branches/core/freedcpp.desktop
+END
+Changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/211/branches/core/Changelog.txt
+END
+Changelog-core-branch.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/211/branches/core/Changelog-core-branch.txt
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/211/branches/core/SConstruct
+END
+Changelog-svn.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/211/branches/core/Changelog-svn.txt
+END
+Credits.txt
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/125/branches/core/Credits.txt
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/193/branches/core/Readme.txt
+END

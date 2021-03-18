@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc
+END
+miniwget.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/miniwget.h
+END
+minissdpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/minissdpc.c
+END
+upnpreplyparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/upnpreplyparse.c
+END
+igd_desc_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/igd_desc_parse.c
+END
+connecthostport.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/connecthostport.c
+END
+upnpreplyparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/upnpreplyparse.h
+END
+minissdpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/minissdpc.h
+END
+igd_desc_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/igd_desc_parse.h
+END
+connecthostport.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/connecthostport.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/LICENSE
+END
+miniupnpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/miniupnpc.c
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/VERSION
+END
+upnpcommands.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/upnpcommands.c
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/SConscript
+END
+miniupnpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/miniupnpc.h
+END
+upnpcommands.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/upnpcommands.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/README
+END
+minixml.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/minixml.c
+END
+upnperrors.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/upnperrors.c
+END
+minisoap.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/minisoap.c
+END
+miniupnpcstrings.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/miniupnpcstrings.h
+END
+codelength.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/codelength.h
+END
+bsdqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/bsdqueue.h
+END
+minixml.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/minixml.h
+END
+miniwget.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/miniwget.c
+END
+minisoap.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/minisoap.h
+END
+Changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/Changelog.txt
+END
+upnperrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/upnperrors.h
+END
+declspec.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/205/tags/freedcpp-0.0.5/miniupnpc/declspec.h
+END

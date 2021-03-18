@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 23
+/svn/!svn/ver/209/trunk
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/200/trunk/SConstruct
+END
+Changelog-svn.txt
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/209/trunk/Changelog-svn.txt
+END
+Credits.txt
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/185/trunk/Credits.txt
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/185/trunk/Readme.txt
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/185/trunk/License.txt
+END
+freedcpp.desktop
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/185/trunk/freedcpp.desktop
+END
+Changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/204/trunk/Changelog.txt
+END

@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/211/branches/core/linux
+END
+hub.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/208/branches/core/linux/hub.cc
+END
+downloadqueue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/193/branches/core/linux/downloadqueue.hh
+END
+emoticonsdialog.hh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/168/branches/core/linux/emoticonsdialog.hh
+END
+finishedtransfers.hh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/195/branches/core/linux/finishedtransfers.hh
+END
+message.hh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/125/branches/core/linux/message.hh
+END
+sound.hh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/125/branches/core/linux/sound.hh
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/linux/SConscript
+END
+treeview.hh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/125/branches/core/linux/treeview.hh
+END
+settingsmanager.hh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/208/branches/core/linux/settingsmanager.hh
+END
+previewmenu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/208/branches/core/linux/previewmenu.cc
+END
+transfers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/linux/transfers.cc
+END
+notify.cc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/211/branches/core/linux/notify.cc
+END
+searchspy.hh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/194/branches/core/linux/searchspy.hh
+END
+favoriteusers.hh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/193/branches/core/linux/favoriteusers.hh
+END
+WulforUtil.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/linux/WulforUtil.cc
+END
+dialogentry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/125/branches/core/linux/dialogentry.cc
+END
+wulformanager.hh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/193/branches/core/linux/wulformanager.hh
+END
+upnpc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/193/branches/core/linux/upnpc.cc
+END
+mainwindow.hh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/linux/mainwindow.hh
+END
+adlsearch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/193/branches/core/linux/adlsearch.cc
+END
+hub.hh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/208/branches/core/linux/hub.hh
+END
+emoticons.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/125/branches/core/linux/emoticons.cc
+END
+favoritehubs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/211/branches/core/linux/favoritehubs.cc
+END
+entry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/125/branches/core/linux/entry.cc
+END
+func.hh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/125/branches/core/linux/func.hh
+END
+search.cc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/linux/search.cc
+END
+sharebrowser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/208/branches/core/linux/sharebrowser.cc
+END
+bookentry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/168/branches/core/linux/bookentry.cc
+END
+privatemessage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/208/branches/core/linux/privatemessage.cc
+END
+previewmenu.hh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/125/branches/core/linux/previewmenu.hh
+END
+settingsdialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/211/branches/core/linux/settingsdialog.cc
+END
+transfers.hh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/125/branches/core/linux/transfers.hh
+END
+notify.hh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/125/branches/core/linux/notify.hh
+END
+WulforUtil.hh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/linux/WulforUtil.hh
+END
+dialogentry.hh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/125/branches/core/linux/dialogentry.hh
+END
+upnpc.hh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/193/branches/core/linux/upnpc.hh
+END
+version.hh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/211/branches/core/linux/version.hh
+END
+adlsearch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/168/branches/core/linux/adlsearch.hh
+END
+publichubs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/195/branches/core/linux/publichubs.cc
+END
+UserCommandMenu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/208/branches/core/linux/UserCommandMenu.cc
+END
+hashdialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/linux/hashdialog.cc
+END
+emoticons.hh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/linux/emoticons.hh
+END
+entry.hh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/168/branches/core/linux/entry.hh
+END
+favoritehubs.hh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/195/branches/core/linux/favoritehubs.hh
+END
+downloadqueue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/168/branches/core/linux/downloadqueue.cc
+END
+wulfor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/211/branches/core/linux/wulfor.cc
+END
+search.hh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/193/branches/core/linux/search.hh
+END
+sharebrowser.hh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/184/branches/core/linux/sharebrowser.hh
+END
+emoticonsdialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/168/branches/core/linux/emoticonsdialog.cc
+END
+finishedtransfers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/208/branches/core/linux/finishedtransfers.cc
+END
+bookentry.hh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/168/branches/core/linux/bookentry.hh
+END
+sound.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/125/branches/core/linux/sound.cc
+END
+privatemessage.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/208/branches/core/linux/privatemessage.hh
+END
+settingsdialog.hh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/184/branches/core/linux/settingsdialog.hh
+END
+treeview.cc
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/208/branches/core/linux/treeview.cc
+END
+settingsmanager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/208/branches/core/linux/settingsmanager.cc
+END
+bacon-message-connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/125/branches/core/linux/bacon-message-connection.c
+END
+searchspy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/194/branches/core/linux/searchspy.cc
+END
+favoriteusers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/168/branches/core/linux/favoriteusers.cc
+END
+bacon-message-connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/125/branches/core/linux/bacon-message-connection.h
+END
+wulformanager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/193/branches/core/linux/wulformanager.cc
+END
+publichubs.hh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/195/branches/core/linux/publichubs.hh
+END
+mainwindow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/linux/mainwindow.cc
+END
+UserCommandMenu.hh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/208/branches/core/linux/UserCommandMenu.hh
+END
+hashdialog.hh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/linux/hashdialog.hh
+END

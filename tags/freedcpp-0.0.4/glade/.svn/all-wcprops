@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade
+END
+transfers.glade
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/transfers.glade
+END
+mainwindow.glade
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/mainwindow.glade
+END
+downloadqueue.glade
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/downloadqueue.glade
+END
+hub.glade
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/hub.glade
+END
+privatemessage.glade
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/privatemessage.glade
+END
+settingsdialog.glade
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/settingsdialog.glade
+END
+finishedtransfers.glade
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/finishedtransfers.glade
+END
+hash.glade
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/hash.glade
+END
+adlsearch.glade
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/adlsearch.glade
+END
+publichubs.glade
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/publichubs.glade
+END
+favoriteusers.glade
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/favoriteusers.glade
+END
+searchspy.glade
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/searchspy.glade
+END
+favoritehubs.glade
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/favoritehubs.glade
+END
+search.glade
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/search.glade
+END
+sharebrowser.glade
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/183/tags/freedcpp-0.0.4/glade/sharebrowser.glade
+END

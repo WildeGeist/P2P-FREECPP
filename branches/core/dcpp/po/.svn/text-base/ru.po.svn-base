@@ -1,0 +1,714 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: dcplusplus\n"
+"Report-Msgid-Bugs-To: dcplusplus-devel@lists.sourceforge.net\n"
+"POT-Creation-Date: 2011-01-10 22:54+0100\n"
+"PO-Revision-Date: 2011-01-05 09:52+0000\n"
+"Last-Translator: mr.jay <jay0130@yandex.ru>\n"
+"Language-Team: Russian <ru_GB@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2011-01-10 21:46+0000\n"
+"X-Generator: Launchpad (build 12161)\n"
+
+#: dcpp\UPnPManager.cpp:83
+#, boost-format
+msgid " Encrypted Transfer Port (%1% TCP)"
+msgstr " Порт шифрованных передач (%1% TCP)"
+
+#: dcpp\UPnPManager.cpp:88
+#, boost-format
+msgid " Search Port (%1% UDP)"
+msgstr " Порт поиска (%1% UDP)"
+
+#: dcpp\UPnPManager.cpp:78
+#, boost-format
+msgid " Transfer Port (%1% TCP)"
+msgstr " Порт передачи (%1% TCP)"
+
+#: dcpp\Util.cpp:517
+#, c-format, boost-format
+msgid "%'lld B"
+msgstr "%'lld Б"
+
+#: dcpp\Util.cpp:479
+#, c-format, boost-format
+msgid "%.02f GiB"
+msgstr "%.02f ГиБ"
+
+#: dcpp\Util.cpp:475
+#, c-format, boost-format
+msgid "%.02f KiB"
+msgstr "%.02f КиБ"
+
+#: dcpp\Util.cpp:477
+#, c-format, boost-format
+msgid "%.02f MiB"
+msgstr "%.02f МиБ"
+
+#: dcpp\Util.cpp:483
+#, c-format, boost-format
+msgid "%.02f PiB"
+msgstr "%.02f ПиБ"
+
+#: dcpp\Util.cpp:481
+#, c-format, boost-format
+msgid "%.02f TiB"
+msgstr "%.02f ТиБ"
+
+#: dcpp\AdcHub.cpp:148
+#, boost-format
+msgid "%1% (%2%) has same CID {%3%} as %4% (%5%), ignoring"
+msgstr "%1% (%2%) имеет такой же CID {%3%} как %4% (%5%), проигнорирован"
+
+#: dcpp\NmdcHub.cpp:288
+#, boost-format
+msgid "%1% (Nick unknown)"
+msgstr "%1% (Ник неизвестен)"
+
+#: dcpp\HashManager.cpp:860
+#, boost-format
+msgid ""
+"%1% not shared; calculated CRC32 does not match the one found in SFV file."
+msgstr ""
+"%1% не общедоступен; вычисленная CRC32 не совпадает с обнаруженной в SFV-"
+"файле."
+
+#: dcpp\AdcHub.cpp:297
+#, boost-format
+msgid "%1% was kicked by %2%: %3%"
+msgstr "%1% был выброшен %2%: %3%"
+
+#: dcpp\AdcHub.cpp:300
+#, boost-format
+msgid "%1% was kicked: %2%"
+msgstr "%1% был выброшен: %2%"
+
+#: dcpp\AdcHub.cpp:185
+#, boost-format
+msgid "%1%/s"
+msgstr "%1%/с"
+
+#: dcpp\DownloadManager.cpp:489
+#, boost-format
+msgid "%1%: File not available"
+msgstr "%1%: Файл недоступен"
+
+#: dcpp\Util.cpp:473
+#, c-format, boost-format
+msgid "%d B"
+msgstr "%d Б"
+
+#: dcpp\Util.cpp:513
+#, c-format, boost-format
+msgid "%s B"
+msgstr "%s Б"
+
+#: dcpp\ADLSearch.cpp:38
+msgid "<Enter string>"
+msgstr "<Введите строку>"
+
+#: dcpp\QueueManager.cpp:633
+msgid "A file with a different TTH root already exists in the queue"
+msgstr "Этот файл с другим TTH-корнем уже есть в очереди"
+
+#: dcpp\QueueManager.cpp:630
+msgid "A file with a different size already exists in the queue"
+msgstr "Файл другого размера уже есть в очереди"
+
+#: dcpp\QueueManager.cpp:576
+msgid "A file with the same hash already exists in your share"
+msgstr "У вас в общем доступе уже есть файл с таким же хэшем"
+
+#: dcpp\ConnectionManager.cpp:193
+msgid "All download slots taken"
+msgstr "Все слоты закачки заняты"
+
+#: dcpp\UPnPManager.cpp:46
+msgid "Another UPnP port mapping attempt is in progress..."
+msgstr "Отображение попытки другого порта UPnP в процессе"
+
+#: dcpp\SearchManager.cpp:33
+msgid "Any"
+msgstr "Любой"
+
+#: dcpp\SearchManager.cpp:34
+msgid "Audio"
+msgstr "Аудио"
+
+#: dcpp\FavoriteManager.cpp:490
+msgid "Auto-connect group (converted)"
+msgstr "Авто-подключение группы (переделанной)"
+
+#: dcpp\ConnectivityManager.cpp:117
+msgid ""
+"Automatic setup of active mode has failed. You may want to set up your "
+"connection manually for better connectivity"
+msgstr ""
+"Произошла ошибка автоматической установки активного режима. Вы можете "
+"установить соединение вручную для лучшего соединения"
+
+#: dcpp\QueueManager.cpp:1732 dcpp\QueueManager.cpp:1741
+msgid "CRC32 inconsistency (SFV-Check)"
+msgstr "Несоответствие CRC32 (SFV-проверка)"
+
+#: dcpp\SearchManager.cpp:35
+msgid "Compressed"
+msgstr "Сжатый"
+
+#: dcpp\BufferedSocket.cpp:185 dcpp\SSLSocket.cpp:154
+msgid "Connection closed"
+msgstr "Соединение закрыто"
+
+#: dcpp\BufferedSocket.cpp:154 dcpp\BufferedSocket.cpp:170
+#: dcpp\ConnectionManager.cpp:200 dcpp\Socket.cpp:161
+msgid "Connection timeout"
+msgstr "Тайм-аут соединения"
+
+#: dcpp\ConnectionManager.cpp:269
+#, boost-format
+msgid "Connectivity error: %1%"
+msgstr "Ошибка соединения: %1%"
+
+#: dcpp\ConnectionManager.cpp:261
+msgid "Connectivity restored"
+msgstr "Соединение восстановлено"
+
+#: dcpp\ConnectivityManager.cpp:146
+#, fuzzy
+msgid "Connectivity: "
+msgstr "Ошибка соединения: %1%"
+
+#: dcpp\DownloadManager.cpp:234
+#, boost-format
+msgid "Could not open target file: %1%"
+msgstr "Не удалось открыть файл: %1%"
+
+#: dcpp\ConnectivityManager.cpp:67
+msgid "Determining connection type..."
+msgstr "Определение типа соединения"
+
+#: dcpp\SearchManager.cpp:40
+msgid "Directory"
+msgstr "Каталог"
+
+#: dcpp\ShareManager.cpp:462
+msgid "Directory already shared"
+msgstr "Каталог уже общедоступен"
+
+#: dcpp\ShareManager.cpp:449
+msgid "Directory is hidden"
+msgstr "Каталог скрыт"
+
+#: dcpp\DirectoryListing.cpp:163
+msgid "Directory missing name attribute"
+msgstr "Отсутствует имя каталога"
+
+#: dcpp\ADLSearch.cpp:474
+msgid "Discard"
+msgstr "Отклонить"
+
+#: dcpp\BufferedSocket.cpp:453
+msgid "Disconnected"
+msgstr "Отключен"
+
+#: dcpp\UploadManager.cpp:454
+#, boost-format
+msgid "Disconnected user leaving the hub: %1%"
+msgstr "Отключённый пользователь покинул хаб: %1%"
+
+#: dcpp\SearchManager.cpp:36
+msgid "Document"
+msgstr "Документ"
+
+#: dcpp\DCPlusPlus.cpp:115
+msgid "Download Queue"
+msgstr "Очередь загрузки"
+
+#: dcpp\ShareManager.cpp:715
+#, boost-format
+msgid ""
+"Duplicate file will not be shared: %1% (Size: %2% B) Dupe matched against: %"
+"3%"
+msgstr ""
+"Файл-дубликат не будет выложен: %1% (Размер: %2% Б) Полное совпадение с: %3%"
+
+#: dcpp\QueueManager.cpp:708 dcpp\QueueManager.cpp:712
+#, boost-format
+msgid "Duplicate source: %1%"
+msgstr "Источник дубликата: %1%"
+
+#: dcpp\HashManager.cpp:463
+#, boost-format
+msgid "Error creating hash data file: %1%"
+msgstr "Ошибка создания файла данных хэша: %1%"
+
+#: dcpp\BZUtils.cpp:31 dcpp\BZUtils.cpp:52 dcpp\BZUtils.cpp:60
+#: dcpp\ZUtils.cpp:33 dcpp\ZUtils.cpp:54 dcpp\ZUtils.cpp:76 dcpp\ZUtils.cpp:86
+msgid "Error during compression"
+msgstr "Ошибка при сжатии"
+
+#: dcpp\BZUtils.cpp:72 dcpp\BZUtils.cpp:94 dcpp\BZUtils.cpp:97
+#: dcpp\CryptoManager.cpp:344 dcpp\CryptoManager.cpp:363
+#: dcpp\CryptoManager.cpp:377 dcpp\ZUtils.cpp:100 dcpp\ZUtils.cpp:123
+msgid "Error during decompression"
+msgstr "Ошибка при декомпрессии"
+
+#: dcpp\CryptoManager.cpp:154
+msgid "Error generating certificate"
+msgstr "Ошибка генерирования сертификата"
+
+#: dcpp\HashManager.cpp:865
+#, boost-format
+msgid "Error hashing %1%: %2%"
+msgstr "Ошибка хеширования %1%: %2%"
+
+#: dcpp\HashManager.cpp:117 dcpp\HashManager.cpp:331
+#, boost-format
+msgid "Error saving hash data: %1%"
+msgstr "Ошибка сохранения хэш данных: %1%"
+
+#: dcpp\SearchManager.cpp:37
+msgid "Executable"
+msgstr "Исполняемый"
+
+#: dcpp\UPnPManager.cpp:116
+msgid "Failed to create port mappings"
+msgstr "Не удалось создать переадресацию порта"
+
+#: dcpp\UPnPManager.cpp:106
+msgid "Failed to get external IP"
+msgstr "Не удалось получить внешний IP-адрес"
+
+#: dcpp\UPnPManager.cpp:74
+#, boost-format
+msgid "Failed to initalize the %1% interface"
+msgstr "Не удалось инициализировать %1% интерфейс"
+
+#: dcpp\CryptoManager.cpp:228 dcpp\CryptoManager.cpp:232
+#: dcpp\CryptoManager.cpp:237 dcpp\CryptoManager.cpp:241
+msgid "Failed to load certificate file"
+msgstr "Не удалось загрузить файл сертификата"
+
+#: dcpp\CryptoManager.cpp:246 dcpp\CryptoManager.cpp:250
+#: dcpp\CryptoManager.cpp:255 dcpp\CryptoManager.cpp:259
+msgid "Failed to load private key"
+msgstr "Не удалось загрузить личный ключ"
+
+#: dcpp\AdcHub.cpp:220
+msgid "Failed to negotiate base protocol"
+msgstr "Не удалось договориться о базовом протоколе"
+
+#: dcpp\UPnPManager.cpp:127
+#, fuzzy, boost-format
+msgid "Failed to remove port mappings with the %1% interface"
+msgstr "Невозможно создать поток"
+
+#: dcpp\Socket.cpp:409
+msgid ""
+"Failed to set up the socks server for UDP relay (check socks address and "
+"port)"
+msgstr ""
+"Не удалось настроить SOCKS-сервер для UDP (проверьте socks-адрес и порт)"
+
+#: dcpp\QueueManager.cpp:695
+msgid "File already exists at the target location"
+msgstr "Файл уже существует в каталоге назначения"
+
+#: dcpp\ShareManager.cpp:872
+#, boost-format
+msgid "File list %1% generated"
+msgstr "Список файлов %1% сгенерирован"
+
+#: dcpp\ShareManager.cpp:752
+#, boost-format
+msgid "File list refresh failed: %1%"
+msgstr "Не удалось обновить список файлов: %1%"
+
+#: dcpp\ShareManager.cpp:800
+msgid "File list refresh finished"
+msgstr "Обновление списка файлов завершено"
+
+#: dcpp\ShareManager.cpp:732
+msgid ""
+"File list refresh in progress, please wait for it to finish before trying to "
+"refresh again"
+msgstr ""
+"Выполняется обновление списка файлов, пожалуйста, дождитесь окончания, "
+"прежде чем обновлять список вновь"
+
+#: dcpp\ShareManager.cpp:775
+msgid "File list refresh initiated"
+msgstr "Начато обновление списка файлов"
+
+#: dcpp\HashManager.cpp:88
+#, boost-format
+msgid "Finished hashing: %1%"
+msgstr "Хеширование завершено: %1%"
+
+#: dcpp\HashManager.cpp:82
+#, boost-format
+msgid "Finished hashing: %1% (%2% at %3%/s)"
+msgstr "Хеширование завершено: %1% (%2% со скоростью %3%/с)"
+
+#: dcpp\HashManager.cpp:85
+#, boost-format
+msgid "Finished hashing: %1% (%2%)"
+msgstr "Хеширование завершено: %1% (%2%)"
+
+#: dcpp\DownloadManager.cpp:313
+msgid "Full tree does not match TTH root"
+msgstr "Полное дерево не соответствует TTH корню"
+
+#: dcpp\CryptoManager.cpp:221
+msgid "Generated new TLS certificate"
+msgstr "Новый TLS-сертификат сгенерирован"
+
+#: dcpp\DCPlusPlus.cpp:107
+msgid "Hash database"
+msgstr "БД хэшей"
+
+#: dcpp\HashManager.cpp:767
+msgid "Hash database rebuilt"
+msgstr "БД хэшей создана заново"
+
+#: dcpp\HashManager.cpp:75 dcpp\HashManager.cpp:275
+#, boost-format
+msgid "Hashing failed: %1%"
+msgstr "Не удалось выполнить хеширование: %1%"
+
+#: dcpp\AdcHub.cpp:226
+msgid ""
+"Hub probably uses an old version of ADC, please encourage the owner to "
+"upgrade"
+msgstr ""
+"Скорее всего, узел использует старую версию ADC, пожалуйста, попросите "
+"владельца установить обновление"
+
+#: dcpp\ADLSearch.cpp:138
+#, boost-format
+msgid "Invalid ADL Search regular expression: %1%"
+msgstr ""
+
+#: dcpp\UserConnection.cpp:50 dcpp\UserConnection.cpp:64
+#: dcpp\UserConnection.cpp:132
+msgid "Invalid data"
+msgstr "Недопустимые данные"
+
+#: dcpp\ShareManager.cpp:635
+#, boost-format
+msgid "Invalid file name found while hashing folder %1%"
+msgstr ""
+
+#: dcpp\SettingsManager.cpp:536
+msgid "Invalid search type name"
+msgstr "Неверное имя поиска"
+
+#: dcpp\DownloadManager.cpp:222
+msgid "Invalid size"
+msgstr "Неверный размер"
+
+#: dcpp\QueueManager.cpp:679 dcpp\QueueManager.cpp:687
+msgid ""
+"Invalid target file (missing directory, check default download directory "
+"setting)"
+msgstr ""
+"Неверный целевой файл (отсутствующая папка, проверьте настройки папки "
+"закачек по умолчанию)"
+
+#: dcpp\FavoriteManager.cpp:438
+msgid "Kick user(s)"
+msgstr "Отключить пользователя(ей)"
+
+#: dcpp\ConnectivityManager.cpp:89
+msgid ""
+"Local network with possible NAT detected, trying to map the ports using "
+"UPnP..."
+msgstr ""
+
+#: dcpp\BufferedSocket.cpp:276
+msgid "Maximum command length exceeded"
+msgstr "Превышена максимальная длина команды"
+
+#: dcpp\Streams.h:140
+msgid "More bytes written than requested"
+msgstr "Записано больше байт, чем было запрошено"
+
+#: dcpp\UPnPManager.cpp:41
+msgid "No UPnP implementation available"
+msgstr "Нет доступной реализации UPnP"
+
+#: dcpp\CryptoManager.cpp:143
+msgid "No certificate file chosen"
+msgstr "Не выбран файл сертификата"
+
+#: dcpp\ShareManager.cpp:445
+msgid "No directory specified"
+msgstr "Не указан каталог"
+
+#: dcpp\CryptoManager.cpp:140
+msgid "No private key file chosen"
+msgstr "Не выбран файл личного ключа"
+
+#: dcpp\DownloadManager.cpp:378
+msgid "No slots available"
+msgstr "Нет доступных слотов"
+
+#: dcpp\SettingsManager.cpp:594
+msgid "No such search type"
+msgstr "Нет такого вида поиска"
+
+#: dcpp\UserConnection.cpp:56
+msgid "Non-UTF-8 data in an ADC connection"
+msgstr "Не UTF-8 данные в ADC соединении"
+
+#: dcpp\AdcHub.cpp:668
+#, boost-format
+msgid "Not listening for connections - please restart %1%"
+msgstr "Соединения не обрабатываются - пожалуйста перезапустите %1%"
+
+#: dcpp\ClientManager.cpp:153 dcpp\SearchManager.cpp:256
+#: dcpp\SearchManager.cpp:319 dcpp\SearchManager.cpp:321 dcpp\Transfer.cpp:82
+#: dcpp\Transfer.cpp:86
+msgid "Offline"
+msgstr "Отключен"
+
+#: dcpp\SearchManager.cpp:38
+msgid "Picture"
+msgstr "Изображение"
+
+#: dcpp\ConnectivityManager.cpp:82
+msgid ""
+"Public IP address detected, selecting active mode with direct connection"
+msgstr ""
+
+#: dcpp\FavoriteManager.cpp:442
+msgid "Redirect user(s)"
+msgstr "Перенаправление пользователя(ей)"
+
+#: dcpp\ShareManager.cpp:465
+msgid "Remove all subdirectories before adding this one"
+msgstr "Удалите все вложенные каталоги прежде, чем добавить этот"
+
+#: dcpp\BitInputStream.h:40
+msgid "Request to seek beyond the end of data"
+msgstr "Запрос поиска вне области данных"
+
+#: dcpp\DownloadManager.cpp:227
+msgid "Response does not match request"
+msgstr "Ответ не соответствует запросу"
+
+#: dcpp\SSLSocket.cpp:160
+#, boost-format
+msgid "SSL Error: %1% (%2%, %3%)"
+msgstr "Ошибка SSL: %1% (%2%, %3%)"
+
+#: dcpp\SearchManager.cpp:154
+#, boost-format
+msgid "Search disabled: %1%"
+msgstr "Поиск отключен: %1%"
+
+#: dcpp\SearchManager.cpp:146
+msgid "Search enabled again"
+msgstr "Поиск снова включен"
+
+#: dcpp\ChatMessage.cpp:34
+msgid "Sent "
+msgstr "Отправлено "
+
+#: dcpp\DCPlusPlus.cpp:111
+msgid "Shared Files"
+msgstr "Общедоступные файлы"
+
+#: dcpp\Socket.cpp:270 dcpp\Socket.cpp:274
+msgid "Socks server authentication failed (bad login / password?)"
+msgstr ""
+"Не удалось пройти аутентификацию на SOCKS-сервере (возможно, неверные имя "
+"или пароль)"
+
+#: dcpp\UPnPManager.cpp:95
+#, boost-format
+msgid ""
+"Successfully created port mappings (TCP: %1%, UDP: %2%, TLS: %3%), mapped "
+"using the %4% interface"
+msgstr ""
+
+#: dcpp\UPnPManager.cpp:126
+#, boost-format
+msgid "Successfully removed port mappings with the %1% interface"
+msgstr ""
+
+#: dcpp\ConnectivityManager.cpp:129
+msgid "TCP/TLS"
+msgstr "TCP/TLS"
+
+#: dcpp\CryptoManager.cpp:223
+#, boost-format
+msgid "TLS disabled, failed to generate certificate: %1%"
+msgstr "TLS отключен, не удалось создать сертификат: %1%"
+
+#: dcpp\CryptoManager.cpp:213
+msgid "TLS disabled, no certificate file set"
+msgstr "TLS отключен, не установлен файл сертификата"
+
+#: dcpp\SearchManager.cpp:41
+msgid "TTH"
+msgstr "TTH"
+
+#: dcpp\MerkleCheckOutputStream.h:53 dcpp\MerkleCheckOutputStream.h:113
+msgid "TTH inconsistency"
+msgstr "Несовпадение TTH"
+
+#: dcpp\QueueManager.cpp:997
+msgid "Target file is missing or wrong size"
+msgstr "Целевой файл отсутствует или имеет неправильный размер"
+
+#: dcpp\QueueManager.cpp:674 dcpp\QueueManager.cpp:683
+msgid "Target filename too long"
+msgstr "Указанное имя слишком длинное"
+
+#: dcpp\QueueManager.cpp:989
+msgid "Target removed"
+msgstr "Удалено"
+
+#: dcpp\UPnPManager.cpp:79 dcpp\UPnPManager.cpp:84 dcpp\UPnPManager.cpp:89
+#, boost-format
+msgid "The %1% interface has failed to map the %2% %3% port"
+msgstr ""
+
+#: dcpp\Socket.cpp:256
+msgid "The socks server doesn't support login / password authentication"
+msgstr "SOCKS-сервер не поддерживает аутентификацию по имени и паролю"
+
+#: dcpp\Socket.cpp:169 dcpp\Socket.cpp:177 dcpp\Socket.cpp:210
+#: dcpp\Socket.cpp:214 dcpp\Socket.cpp:238 dcpp\Socket.cpp:253
+msgid "The socks server failed establish a connection"
+msgstr "SOCKS-серверу не удалось установить соединение"
+
+#: dcpp\Socket.cpp:242
+msgid "The socks server requires authentication"
+msgstr "SOCKS-сервер требует аутентификации"
+
+#: dcpp\ShareManager.cpp:453
+msgid "The temporary download directory cannot be shared"
+msgstr "Временный каталог закачки нельзя сделать общедоступным"
+
+#: dcpp\QueueManager.cpp:637
+msgid "This file has already finished downloading"
+msgstr "Данный файл уже был скачан"
+
+#: dcpp\QueueManager.cpp:618
+msgid "This file is already queued"
+msgstr "Этот файл уже есть в очереди"
+
+#: dcpp\NmdcHub.cpp:941
+#, boost-format
+msgid ""
+"This hub is trying to use your client to spam %1%, please urge hub owner to "
+"fix this"
+msgstr ""
+"Данный узел пытался использовать ваш клиент для спама %1%, пожалуйста, "
+"убедите владельца узла исправить это"
+
+#: dcpp\SettingsManager.cpp:540 dcpp\SettingsManager.cpp:562
+msgid "This search type already exists"
+msgstr "Этот вид поиска уже существует"
+
+#: dcpp\ConnectivityManager.cpp:135
+msgid "UDP"
+msgstr "(User Datagram Protocol) - протокол пользовательских диаграмм"
+
+#: dcpp\UPnPManager.cpp:132
+#, boost-format
+msgid "UPnP: %1%"
+msgstr "UPnP: %1%"
+
+#: dcpp\Thread.cpp:30 dcpp\Thread.cpp:38
+msgid "Unable to create thread"
+msgstr "Невозможно создать поток"
+
+#: dcpp\QueueManager.cpp:1049
+#, boost-format
+msgid "Unable to move %1% to %2% (%3%) nor to rename to %4% (%5%)"
+msgstr "Не удалось переместить %1% в %2% (%3%), ни переименовать в %4% (%5%)"
+
+#: dcpp\QueueManager.cpp:1046
+#, boost-format
+msgid "Unable to move %1% to %2% (%3%); renamed to %4%"
+msgstr "Невозможно переместить %1% в %2% (%3%); переименовано в %4%"
+
+#: dcpp\ConnectivityManager.cpp:72
+#, boost-format
+msgid "Unable to open %1% port(s). You must set up your connection manually"
+msgstr "Не удается открыть %1% порт(ы). Установите соединение вручную"
+
+#: dcpp\QueueManager.cpp:1224
+#, boost-format
+msgid "Unable to open filelist: %1%"
+msgstr "Невозможно открыть список файлов: %1%"
+
+#: dcpp\HashManager.cpp:130
+msgid "Unable to read hash data file"
+msgstr "Невозможно считать хэш-файл"
+
+#: dcpp\UploadManager.cpp:150
+#, boost-format
+msgid "Unable to send file %1%: %2%"
+msgstr "Невозможно передать файл %1%: %2%"
+
+#: dcpp\Util.cpp:207
+msgid "Unknown"
+msgstr ""
+
+#: dcpp\Socket.cpp:61
+#, c-format, boost-format
+msgid "Unknown error: 0x%1$x"
+msgstr "Неизвестная ошибка: 0x%1$x"
+
+#: dcpp\DCPlusPlus.cpp:119
+msgid "Users"
+msgstr "Пользователи"
+
+#: dcpp\SearchManager.cpp:39
+msgid "Video"
+msgstr "Видео"
+
+#: dcpp\QueueManager.cpp:570
+msgid "You're trying to download from yourself!"
+msgstr "Вы пытаетесь качать с себя!"
+
+#: dcpp\SettingsManager.cpp:176
+msgid "downloaded from"
+msgstr "закачано с"
+
+#: dcpp\SettingsManager.cpp:177
+msgid "uploaded to"
+msgstr "передано"
+
+#~ msgid "%1% renamed to %2%"
+#~ msgstr "%1% переименован в %2%"
+
+#~ msgid "A file of equal or larger size already exists at the target location"
+#~ msgstr "В указанном месте уже есть файл такого же или большего размера"
+
+#~ msgid "A file with different tth root already exists in the queue"
+#~ msgstr "В очереди уже есть файл с другим tth"
+
+#~ msgid "Finished hashing: %1% (%2%/s)"
+#~ msgstr "Завершено хэширование: %1% (%2%/с)"
+
+#~ msgid "Unable to rename %1%: %2%"
+#~ msgstr "Невозможно переименовать %1%: %2%"
+
+#~ msgid "Greater than maximum filelist size"
+#~ msgstr "Больше, чем макс. размер списка файлов"
+
+#~ msgid "File not available"
+#~ msgstr "Файл отсутствует"
+
+#~ msgid "Failed to remove port mappings"
+#~ msgstr "Не удалось удалить переадресацию порта"
+
+#~ msgid "Successfully created port mappings"
+#~ msgstr "Успешно создано сопоставление портов"

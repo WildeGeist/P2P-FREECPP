@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/4/tags/freedcpp-0.0.1
+END
+Changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/Changelog.txt
+END
+SConstruct
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/SConstruct
+END
+Credits.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/Credits.txt
+END
+Readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/Readme.txt
+END
+License.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/4/tags/freedcpp-0.0.1/License.txt
+END

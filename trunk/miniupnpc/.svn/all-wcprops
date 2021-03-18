@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/185/trunk/miniupnpc
+END
+upnpcommands.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/185/trunk/miniupnpc/upnpcommands.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/185/trunk/miniupnpc/README
+END
+minixml.c
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/185/trunk/miniupnpc/minixml.c
+END
+upnperrors.c
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/185/trunk/miniupnpc/upnperrors.c
+END
+minisoap.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/185/trunk/miniupnpc/minisoap.c
+END
+miniupnpcstrings.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/185/trunk/miniupnpc/miniupnpcstrings.h
+END
+codelength.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/185/trunk/miniupnpc/codelength.h
+END
+bsdqueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/185/trunk/miniupnpc/bsdqueue.h
+END
+minixml.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/185/trunk/miniupnpc/minixml.h
+END
+miniwget.c
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/185/trunk/miniupnpc/miniwget.c
+END
+minisoap.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/185/trunk/miniupnpc/minisoap.h
+END
+Changelog.txt
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/185/trunk/miniupnpc/Changelog.txt
+END
+upnperrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/185/trunk/miniupnpc/upnperrors.h
+END
+declspec.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/185/trunk/miniupnpc/declspec.h
+END
+miniwget.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/185/trunk/miniupnpc/miniwget.h
+END
+minissdpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/185/trunk/miniupnpc/minissdpc.c
+END
+upnpreplyparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/185/trunk/miniupnpc/upnpreplyparse.c
+END
+igd_desc_parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/185/trunk/miniupnpc/igd_desc_parse.c
+END
+connecthostport.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/185/trunk/miniupnpc/connecthostport.c
+END
+upnpreplyparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/185/trunk/miniupnpc/upnpreplyparse.h
+END
+minissdpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/185/trunk/miniupnpc/minissdpc.h
+END
+igd_desc_parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/185/trunk/miniupnpc/igd_desc_parse.h
+END
+connecthostport.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/185/trunk/miniupnpc/connecthostport.h
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/185/trunk/miniupnpc/LICENSE
+END
+miniupnpc.c
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/185/trunk/miniupnpc/miniupnpc.c
+END
+VERSION
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/185/trunk/miniupnpc/VERSION
+END
+upnpcommands.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/185/trunk/miniupnpc/upnpcommands.c
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/185/trunk/miniupnpc/SConscript
+END
+miniupnpc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/185/trunk/miniupnpc/miniupnpc.h
+END

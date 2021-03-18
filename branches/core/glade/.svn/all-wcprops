@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/195/branches/core/glade
+END
+publichubs.glade
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/125/branches/core/glade/publichubs.glade
+END
+favoriteusers.glade
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/125/branches/core/glade/favoriteusers.glade
+END
+searchspy.glade
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/168/branches/core/glade/searchspy.glade
+END
+favoritehubs.glade
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/195/branches/core/glade/favoritehubs.glade
+END
+search.glade
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/149/branches/core/glade/search.glade
+END
+sharebrowser.glade
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/184/branches/core/glade/sharebrowser.glade
+END
+transfers.glade
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/125/branches/core/glade/transfers.glade
+END
+mainwindow.glade
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/184/branches/core/glade/mainwindow.glade
+END
+downloadqueue.glade
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/125/branches/core/glade/downloadqueue.glade
+END
+hub.glade
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/184/branches/core/glade/hub.glade
+END
+privatemessage.glade
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/168/branches/core/glade/privatemessage.glade
+END
+settingsdialog.glade
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/184/branches/core/glade/settingsdialog.glade
+END
+finishedtransfers.glade
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/195/branches/core/glade/finishedtransfers.glade
+END
+hash.glade
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/126/branches/core/glade/hash.glade
+END
+adlsearch.glade
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/168/branches/core/glade/adlsearch.glade
+END

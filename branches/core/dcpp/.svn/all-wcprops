@@ -1,0 +1,1079 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/210/branches/core/dcpp
+END
+UserCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/dcpp/UserCommand.h
+END
+HashManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/dcpp/HashManager.h
+END
+ChatMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/208/branches/core/dcpp/ChatMessage.cpp
+END
+Text.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/208/branches/core/dcpp/Text.cpp
+END
+stdinc.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/stdinc.cpp
+END
+Upload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/Upload.cpp
+END
+QueueManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/dcpp/QueueManager.h
+END
+File.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/208/branches/core/dcpp/File.h
+END
+NmdcHub.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/208/branches/core/dcpp/NmdcHub.h
+END
+debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/208/branches/core/dcpp/debug.h
+END
+SettingsManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/208/branches/core/dcpp/SettingsManager.cpp
+END
+SimpleBencodeReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/208/branches/core/dcpp/SimpleBencodeReader.cpp
+END
+BZUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/BZUtils.cpp
+END
+Exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/dcpp/Exception.cpp
+END
+CID.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/208/branches/core/dcpp/CID.cpp
+END
+StringTokenizer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/208/branches/core/dcpp/StringTokenizer.cpp
+END
+Flags.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/125/branches/core/dcpp/Flags.h
+END
+StringSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/dcpp/StringSearch.h
+END
+SimpleXMLReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/208/branches/core/dcpp/SimpleXMLReader.h
+END
+DownloadManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/208/branches/core/dcpp/DownloadManager.h
+END
+Segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/193/branches/core/dcpp/Segment.h
+END
+TimerManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/208/branches/core/dcpp/TimerManager.cpp
+END
+TaskQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/TaskQueue.h
+END
+HashBloom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/dcpp/HashBloom.cpp
+END
+UserCommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/208/branches/core/dcpp/UserCommand.cpp
+END
+BloomFilter.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/dcpp/BloomFilter.h
+END
+FavoriteUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/dcpp/FavoriteUser.h
+END
+User.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/208/branches/core/dcpp/User.h
+END
+HashValue.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/HashValue.h
+END
+typedefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/typedefs.h
+END
+Upload.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/208/branches/core/dcpp/Upload.h
+END
+stdinc.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/208/branches/core/dcpp/stdinc.h
+END
+ChatMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/dcpp/ChatMessage.h
+END
+Text.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/208/branches/core/dcpp/Text.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/208/branches/core/dcpp/version.h
+END
+format.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/208/branches/core/dcpp/format.h
+END
+SimpleXMLReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/208/branches/core/dcpp/SimpleXMLReader.cpp
+END
+UserConnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/208/branches/core/dcpp/UserConnection.cpp
+END
+ZUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/208/branches/core/dcpp/ZUtils.h
+END
+HttpConnection.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/208/branches/core/dcpp/HttpConnection.cpp
+END
+BZUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/208/branches/core/dcpp/BZUtils.h
+END
+SimpleBencodeReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/208/branches/core/dcpp/SimpleBencodeReader.h
+END
+QueueItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/dcpp/QueueItem.cpp
+END
+SearchResult.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/208/branches/core/dcpp/SearchResult.cpp
+END
+MerkleTree.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/208/branches/core/dcpp/MerkleTree.h
+END
+ConnectionManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/208/branches/core/dcpp/ConnectionManagerListener.h
+END
+Singleton.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/Singleton.h
+END
+GeoIP.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/208/branches/core/dcpp/GeoIP.h
+END
+SSLSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/dcpp/SSLSocket.cpp
+END
+Download.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/Download.h
+END
+MerkleCheckOutputStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/208/branches/core/dcpp/MerkleCheckOutputStream.h
+END
+CryptoManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/208/branches/core/dcpp/CryptoManager.h
+END
+HashBloom.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/HashBloom.h
+END
+WindowInfo.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/dcpp/WindowInfo.cpp
+END
+ClientManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/208/branches/core/dcpp/ClientManagerListener.h
+END
+version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/version.cpp
+END
+FavoriteManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/208/branches/core/dcpp/FavoriteManagerListener.h
+END
+ResourceManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/193/branches/core/dcpp/ResourceManager.h
+END
+ClientListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/208/branches/core/dcpp/ClientListener.h
+END
+UploadManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/208/branches/core/dcpp/UploadManagerListener.h
+END
+MappingManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/208/branches/core/dcpp/MappingManager.h
+END
+AdcHub.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/208/branches/core/dcpp/AdcHub.h
+END
+AdcCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/208/branches/core/dcpp/AdcCommand.h
+END
+ADLSearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/ADLSearch.h
+END
+ConnectionManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/208/branches/core/dcpp/ConnectionManager.h
+END
+Torrent.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/208/branches/core/dcpp/Torrent.h
+END
+DCPlusPlus.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/208/branches/core/dcpp/DCPlusPlus.h
+END
+DirectoryListing.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/208/branches/core/dcpp/DirectoryListing.h
+END
+SSL.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/208/branches/core/dcpp/SSL.h
+END
+WindowManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/208/branches/core/dcpp/WindowManager.h
+END
+FinishedItem.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/208/branches/core/dcpp/FinishedItem.cpp
+END
+SearchResult.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/193/branches/core/dcpp/SearchResult.h
+END
+HttpDownload.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/dcpp/HttpDownload.h
+END
+ClientManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/208/branches/core/dcpp/ClientManager.h
+END
+HashManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/208/branches/core/dcpp/HashManager.cpp
+END
+Bundle.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/208/branches/core/dcpp/Bundle.h
+END
+Encoder.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/Encoder.cpp
+END
+HintedUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/208/branches/core/dcpp/HintedUser.h
+END
+FavoriteManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/208/branches/core/dcpp/FavoriteManager.h
+END
+TigerHash.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/TigerHash.h
+END
+Client.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/208/branches/core/dcpp/Client.h
+END
+UploadManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/208/branches/core/dcpp/UploadManager.h
+END
+Socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/Socket.cpp
+END
+noexcept.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/noexcept.h
+END
+Torrent.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/Torrent.cpp
+END
+SettingsManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/208/branches/core/dcpp/SettingsManager.h
+END
+SearchManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/208/branches/core/dcpp/SearchManager.cpp
+END
+SSL.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/208/branches/core/dcpp/SSL.cpp
+END
+DownloadManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/208/branches/core/dcpp/DownloadManager.cpp
+END
+ShareManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/dcpp/ShareManager.h
+END
+CID.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/208/branches/core/dcpp/CID.h
+END
+ClientManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/208/branches/core/dcpp/ClientManager.cpp
+END
+Bundle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/Bundle.cpp
+END
+HttpConnectionListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/208/branches/core/dcpp/HttpConnectionListener.h
+END
+GeoManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/208/branches/core/dcpp/GeoManager.h
+END
+w.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/208/branches/core/dcpp/w.h
+END
+SearchManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/208/branches/core/dcpp/SearchManagerListener.h
+END
+FastAlloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/FastAlloc.h
+END
+FinishedItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/dcpp/FinishedItem.h
+END
+ConnectivityManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/208/branches/core/dcpp/ConnectivityManager.h
+END
+User.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/208/branches/core/dcpp/User.cpp
+END
+SimpleXML.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/SimpleXML.h
+END
+TimerManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/dcpp/TimerManager.h
+END
+SFVReader.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/SFVReader.h
+END
+ZUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/ZUtils.cpp
+END
+BufferedSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/208/branches/core/dcpp/BufferedSocket.cpp
+END
+FavHubGroup.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/dcpp/FavHubGroup.h
+END
+ShareManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/208/branches/core/dcpp/ShareManager.cpp
+END
+Socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/208/branches/core/dcpp/Socket.h
+END
+ThrottleManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/208/branches/core/dcpp/ThrottleManager.cpp
+END
+HttpConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/208/branches/core/dcpp/HttpConnection.h
+END
+SearchManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/208/branches/core/dcpp/SearchManager.h
+END
+GeoManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/dcpp/GeoManager.cpp
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/SConscript
+END
+Thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/Thread.cpp
+END
+QueueItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/QueueItem.h
+END
+ConnectivityManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/208/branches/core/dcpp/ConnectivityManager.cpp
+END
+compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/compiler.h
+END
+File.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/208/branches/core/dcpp/File.cpp
+END
+QueueManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/208/branches/core/dcpp/QueueManager.cpp
+END
+SFVReader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/dcpp/SFVReader.cpp
+END
+Util.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/208/branches/core/dcpp/Util.h
+END
+ResourceManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/208/branches/core/dcpp/ResourceManager.cpp
+END
+FinishedManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/208/branches/core/dcpp/FinishedManager.cpp
+END
+Pointer.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/208/branches/core/dcpp/Pointer.h
+END
+MappingManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/208/branches/core/dcpp/MappingManager.cpp
+END
+AdcHub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/AdcHub.cpp
+END
+AdcCommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/dcpp/AdcCommand.cpp
+END
+ADLSearch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/dcpp/ADLSearch.cpp
+END
+Semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/Semaphore.h
+END
+WindowInfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/208/branches/core/dcpp/WindowInfo.h
+END
+OnlineUser.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/208/branches/core/dcpp/OnlineUser.h
+END
+ConnectionManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/208/branches/core/dcpp/ConnectionManager.cpp
+END
+BundleItem.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/208/branches/core/dcpp/BundleItem.h
+END
+DCPlusPlus.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/dcpp/DCPlusPlus.cpp
+END
+DirectoryListing.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/208/branches/core/dcpp/DirectoryListing.cpp
+END
+FinishedManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/208/branches/core/dcpp/FinishedManagerListener.h
+END
+WindowManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/208/branches/core/dcpp/WindowManager.cpp
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/Exception.h
+END
+SHA1Hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/SHA1Hash.h
+END
+ThrottleManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/208/branches/core/dcpp/ThrottleManager.h
+END
+UserConnectionListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/208/branches/core/dcpp/UserConnectionListener.h
+END
+FavoriteManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/208/branches/core/dcpp/FavoriteManager.cpp
+END
+LogManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/dcpp/LogManager.cpp
+END
+Util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/208/branches/core/dcpp/Util.cpp
+END
+Client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/Client.cpp
+END
+TigerHash.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/dcpp/TigerHash.cpp
+END
+ScopedFunctor.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/208/branches/core/dcpp/ScopedFunctor.h
+END
+Mapper.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/Mapper.cpp
+END
+Transfer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/208/branches/core/dcpp/Transfer.cpp
+END
+Encoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/208/branches/core/dcpp/Encoder.h
+END
+LogManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/208/branches/core/dcpp/LogManagerListener.h
+END
+FinishedManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/208/branches/core/dcpp/FinishedManager.h
+END
+Speaker.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/208/branches/core/dcpp/Speaker.h
+END
+GeoIP.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/208/branches/core/dcpp/GeoIP.cpp
+END
+UserConnection.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/208/branches/core/dcpp/UserConnection.h
+END
+BufferedSocketListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/208/branches/core/dcpp/BufferedSocketListener.h
+END
+Download.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/208/branches/core/dcpp/Download.cpp
+END
+SimpleXML.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/208/branches/core/dcpp/SimpleXML.cpp
+END
+CryptoManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/208/branches/core/dcpp/CryptoManager.cpp
+END
+SSLSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/SSLSocket.h
+END
+NmdcHub.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/208/branches/core/dcpp/NmdcHub.cpp
+END
+LogManager.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/208/branches/core/dcpp/LogManager.h
+END
+Streams.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/208/branches/core/dcpp/Streams.h
+END
+CriticalSection.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/208/branches/core/dcpp/CriticalSection.h
+END
+HashManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/208/branches/core/dcpp/HashManagerListener.h
+END
+Mapper.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/208/branches/core/dcpp/Mapper.h
+END
+Transfer.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/Transfer.h
+END
+QueueManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/208/branches/core/dcpp/QueueManagerListener.h
+END
+MD5Hash.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/208/branches/core/dcpp/MD5Hash.h
+END
+BufferedSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/208/branches/core/dcpp/BufferedSocket.h
+END
+FilteredFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/208/branches/core/dcpp/FilteredFile.h
+END
+HubEntry.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/208/branches/core/dcpp/HubEntry.h
+END
+StringTokenizer.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/208/branches/core/dcpp/StringTokenizer.h
+END
+HttpDownload.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/208/branches/core/dcpp/HttpDownload.cpp
+END
+forward.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/208/branches/core/dcpp/forward.h
+END
+Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/210/branches/core/dcpp/Thread.h
+END
+DownloadManagerListener.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/208/branches/core/dcpp/DownloadManagerListener.h
+END
+UploadManager.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/208/branches/core/dcpp/UploadManager.cpp
+END

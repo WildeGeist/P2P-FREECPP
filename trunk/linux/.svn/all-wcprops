@@ -1,0 +1,395 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/svn/!svn/ver/209/trunk/linux
+END
+transfers.hh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/185/trunk/linux/transfers.hh
+END
+mainwindow.hh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/185/trunk/linux/mainwindow.hh
+END
+emoticonsdialog.hh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/185/trunk/linux/emoticonsdialog.hh
+END
+treeview.cc
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/185/trunk/linux/treeview.cc
+END
+message.hh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/185/trunk/linux/message.hh
+END
+upnpc.hh
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/185/trunk/linux/upnpc.hh
+END
+adlsearch.hh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/185/trunk/linux/adlsearch.hh
+END
+SConscript
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/185/trunk/linux/SConscript
+END
+settingsmanager.hh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/185/trunk/linux/settingsmanager.hh
+END
+search.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/185/trunk/linux/search.cc
+END
+previewmenu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/185/trunk/linux/previewmenu.cc
+END
+emoticons.hh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/185/trunk/linux/emoticons.hh
+END
+entry.hh
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/185/trunk/linux/entry.hh
+END
+downloadqueue.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/185/trunk/linux/downloadqueue.cc
+END
+privatemessage.cc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/185/trunk/linux/privatemessage.cc
+END
+settingsdialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/206/trunk/linux/settingsdialog.cc
+END
+dialogentry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/185/trunk/linux/dialogentry.cc
+END
+finishedtransfers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/192/trunk/linux/finishedtransfers.cc
+END
+notify.hh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/185/trunk/linux/notify.hh
+END
+bookentry.hh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/185/trunk/linux/bookentry.hh
+END
+WulforUtil.hh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/185/trunk/linux/WulforUtil.hh
+END
+sound.cc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/185/trunk/linux/sound.cc
+END
+hub.hh
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/185/trunk/linux/hub.hh
+END
+publichubs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/187/trunk/linux/publichubs.cc
+END
+searchspy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/185/trunk/linux/searchspy.cc
+END
+favoriteusers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/185/trunk/linux/favoriteusers.cc
+END
+hashdialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/185/trunk/linux/hashdialog.cc
+END
+treeview.hh
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/svn/!svn/ver/185/trunk/linux/treeview.hh
+END
+wulformanager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/185/trunk/linux/wulformanager.cc
+END
+wulfor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/202/trunk/linux/wulfor.cc
+END
+search.hh
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/185/trunk/linux/search.hh
+END
+previewmenu.hh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/185/trunk/linux/previewmenu.hh
+END
+downloadqueue.hh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/185/trunk/linux/downloadqueue.hh
+END
+privatemessage.hh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/185/trunk/linux/privatemessage.hh
+END
+settingsdialog.hh
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/185/trunk/linux/settingsdialog.hh
+END
+dialogentry.hh
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/185/trunk/linux/dialogentry.hh
+END
+finishedtransfers.hh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/191/trunk/linux/finishedtransfers.hh
+END
+version.hh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/209/trunk/linux/version.hh
+END
+favoritehubs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/209/trunk/linux/favoritehubs.cc
+END
+UserCommandMenu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/185/trunk/linux/UserCommandMenu.cc
+END
+sound.hh
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/185/trunk/linux/sound.hh
+END
+func.hh
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/185/trunk/linux/func.hh
+END
+sharebrowser.cc
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/185/trunk/linux/sharebrowser.cc
+END
+transfers.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/185/trunk/linux/transfers.cc
+END
+publichubs.hh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/187/trunk/linux/publichubs.hh
+END
+searchspy.hh
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/185/trunk/linux/searchspy.hh
+END
+favoriteusers.hh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/185/trunk/linux/favoriteusers.hh
+END
+mainwindow.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/186/trunk/linux/mainwindow.cc
+END
+hashdialog.hh
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/185/trunk/linux/hashdialog.hh
+END
+emoticonsdialog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/185/trunk/linux/emoticonsdialog.cc
+END
+wulformanager.hh
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/185/trunk/linux/wulformanager.hh
+END
+upnpc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/185/trunk/linux/upnpc.cc
+END
+adlsearch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/185/trunk/linux/adlsearch.cc
+END
+settingsmanager.cc
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/185/trunk/linux/settingsmanager.cc
+END
+bacon-message-connection.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/185/trunk/linux/bacon-message-connection.c
+END
+emoticons.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/185/trunk/linux/emoticons.cc
+END
+entry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/185/trunk/linux/entry.cc
+END
+bacon-message-connection.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/185/trunk/linux/bacon-message-connection.h
+END
+notify.cc
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/200/trunk/linux/notify.cc
+END
+favoritehubs.hh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/186/trunk/linux/favoritehubs.hh
+END
+UserCommandMenu.hh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/185/trunk/linux/UserCommandMenu.hh
+END
+bookentry.cc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/185/trunk/linux/bookentry.cc
+END
+WulforUtil.cc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/185/trunk/linux/WulforUtil.cc
+END
+hub.cc
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/190/trunk/linux/hub.cc
+END
+sharebrowser.hh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/185/trunk/linux/sharebrowser.hh
+END
